@@ -29,3 +29,7 @@ Pruning: Here cross validated datasets are experimented with pruning
 The datsets are experimented with various tree depths
 
 Adaptive boosting: Adaboost algorithm is used here to boost the tree. Decision tree classifiers with depth 1 are used as weak learners in this algorithm.The accuracy is tested for different number of weak learners which is similar to pruning
+
+Artificial Neural Networks: Used keeras open source neural network library which runs on top of Tensorflow and Theano 
+
+K Nearest Neighbors: Knn is experimented with k= 1 t0 25, and p=1(Manhattan distance), p=2(Euclidean distance)
