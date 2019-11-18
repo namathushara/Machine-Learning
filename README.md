@@ -20,6 +20,10 @@ One Hot Encoding: As all of the features are categorical,one hot encoding is don
 Data split: The dataset is partitioned into training data, and test data with 80%,20% of data respectively.
 X_train, X_test, y_train, y_test = train_test_split(df, y, test_size=0.2)
 
+Linear regression with gradient descent from scratch without using sk-learn
+
+Logistic regression
+
 Support Vector Machine:
 Kernels experimented here are Linear, Rbf, Poly, Sigmoid
 
