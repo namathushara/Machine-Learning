@@ -37,3 +37,6 @@ Adaptive boosting: Adaboost algorithm is used here to boost the tree. Decision t
 Artificial Neural Networks: Used keeras open source neural network library which runs on top of Tensorflow and Theano 
 
 K Nearest Neighbors: Knn is experimented with k= 1 t0 25, and p=1(Manhattan distance), p=2(Euclidean distance)
+K means clustering -finding optimal clusters with elbow plot
+Feature selection and Dimensionality reduction techniques-PCA,ICA,Random projections
+Clustering output as the input for Neural networks.
